@@ -13,7 +13,7 @@ qué representa]
 1. Clona el repositorio: `git clone https://github.com/AnaMariaAlvaradoM/DS_Modulo1_C6.git`
 2. Crea una carpeta de proyecto: `mkdir taller-modulo1`
 3. ubicate en la carpeta de proyecto y crea un repositorio: `cd taller-modulo1` `git init`
-4. Copia las carpetas de proyecto: `salu_mundial.csv y taller_modulo1.ipynb`
+4. Copia las carpetas de proyecto: `salud_mundial.csv y taller_modulo1.ipynb`
 5. crea el archivo .gitignore `carpetas y archivos que no deben rastrearse ni subirse al repositorio`
 6. Ejecuta: `jupyter notebook: 
 taller_modulo1.ipynb`
@@ -25,8 +25,12 @@ taller_modulo1.ipynb`
 
 ## Hallazgos principales
 
-- Hallazgo 1: ...
-- Hallazgo 2: ... -
-- Hallazgo 3: ...
+- Hallazgo 1: ... El pais con mayor porcentaje de fumadores es Ecuador.
+- Hallazgo 2: ... la mediana de mortalidad infantil es alta.
+- Hallazgo 3: ... por regiones Europa tiene la mayor esperanza de vida.
 
 ## Tecnologías Python · Pandas · Jupyter Notebook · Git · GitHub
+
+python version 3.13.2
+pandas version 3.0.1
+git version 2.53.0.windows.1
