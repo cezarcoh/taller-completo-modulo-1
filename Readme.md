@@ -1,12 +1,12 @@
-# Taller Módulo 1 — Salud Mundial **Autor:** Tu Nombre **Máster:** IA & Data Science — DevSeniorCode
+# Taller Módulo 1 — Salud Mundial **Autor:** Cesar Augusto Coral Hernandez **Máster:** IA & Data Science — DevSeniorCode
 
-## Descripción [Describe brevemente qué hace este proyecto y qué datos
+## Descripción [Describe brevemente qué hace este proyecto y qué datos analiza]
 
-analiza]
+Este proyecto analiza varias variables presentadas sobre el tema de la salud mundial. De los cuales se puede inferir coocimiento al respecto.
 
-## Dataset [Explica qué contiene el dataset: cuántos países, qué columnas,
+## Dataset [Explica qué contiene el dataset: cuántos países, qué columnas, qué representa]
 
-qué representa]
+159 paises, 13 columnas, representa lla situación sanitaria global.
 
 ## Cómo ejecutar
 
